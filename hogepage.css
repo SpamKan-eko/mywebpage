@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+}
+h1{
+    font-family: 'Rubik Glitch', cursive;
+    font-weight: 400;
+    font-size: 500%;
+    color: rgb(255, 255, 255);
+    margin-top: 10%;
+    margin-bottom: 15%;
+    
+}
+h2{
+    font-family: 'Zen Old Mincho', serif;
+    font-size: medium;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+}
