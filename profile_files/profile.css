@@ -1,0 +1,40 @@
+body{
+    background-color: blue;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+}
+h1{
+    font-family: 'Rubik Glitch', cursive;
+    font-weight: 400;
+    font-size: 500%;
+    color: rgb(255, 255, 255);
+    margin-top: 10%;
+    margin-bottom: 15%;
+    
+}
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: xx-large;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+}
+h3{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: x-large;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+}
+.accounts{
+    margin: 15%;
+    outline: 5px;
+    outline-style:double;
+    outline-color: antiquewhite;
+    
+}
+.aclink{
+    margin-bottom: 5%;
+    font-size: large;
+
+}
